@@ -1,0 +1,65 @@
+{
+	"Title": "Zeyesa Hinji | Personal Portfolio",
+	"Name": "Zeyesa Hinji",
+	"Description": [
+		"Computer Engineer. Passionate about Blockchain, Cybersecurity, Networks, and Open Source.",
+		"I seize every chance I get to travel, create and eat."
+	],
+	"MainImage": "https://lh3.googleusercontent.com/AyX058ZEiIxXUNqgRfscg1-Xcazdp4fJNNOdJJGUa3kGbb610sgzhjFYXKgdK5mytcTPkgd1Kscl0ceZg_C8v42XEZd4fpEUoOJAjEqT2fLoALqNkRl0P_rew3NgPTNzY74urKZeipHFyOrsr_2yMA8xNIWx7GHUcBvqduWogmfFUAGMTu1tlydxF80vYtlxBLXoWjT393a61sxa6mFrkKt8E5Q4cobXDLRec1opNyeH7JwRNIj8nARFg55hc18Pdx-OVlyL8-jjc3DajmG12A4Uy9uvvkM4PqE_LPbAWCWMbWR_i4IjV-q3-JWniFCnX5MVTL8jQ5efg71tAdUNbTx8cW3EP1JCil0Gzz7sHREbbFXFA0Km4F79_AV-_1fH2DS4cxmyKOJZJ8dyJ4kFC7vLOMehTP9Ys1ATuEy0ZJ2EiH2TBNyTz0V3-3LivomtHq4Eoi11Cf5UFE7QKa0940R59RJcLlZX1gAUF_9vzXRehjP0735abTR3poamyxjdIWU75_P2ECSwQXB54aiT5fZ3rKhcvWBout-SybfrT8B50IQsf7FjC4MlmmmOBb0Tv7IhynkWfSx3xYMpQlqc6ji5MXI36Y5NCA-jUNYcfeYEdgZ23LRaFJGpSQ9Q1RiNHp4FEXQ3v98LARB1FQDEdL91YiWVFx-l8QDmWHY_DnEi66RHrpI52wPtrghz=w577-h769-no?authuser=0",
+	"BackgroundURL": "",
+
+	"AboutImage": "https://lh3.googleusercontent.com/uYAPKZoA3j0dWtr7co5y48Qv8mNJJE8QQJPQ1cKzqOhAU-YqiZs6hzQTHbZSeJVnxUgYMSEJ6PFELfh69yZo9I2bQfp8nojiu0_uwp6MC703LnLI7ytf4RtleTfQ9smqSBCdCwpLZPm6c0sj9-RpkD2ogUMsSzy0AahLFmF4K-LVYTG5qLVp0Jz8MSdhujj6UiHJDkF9URSRb2o8TqWjy3bag-86Bq0sW1OfPFLQuLcJ4k08miIcZ41Ns6rIqUtL6YFjYiKUSGJuKubrIBCJ0t-i8emg8dySz5Xyt9mNS118NT1RJKEUysGwftMa7W3JjuAqwfBhb3CeBqG2YkdOErGSgyd0UeELNXfKmYz_zr-kmO591NR1SfBI_szR8sSZLvxBg9a-heHp_33p7UmvBK7Sch-jxEftcRZ9j4eh8DH9NOlmC3aBYxH7z-mG502ORsURxcpLESWfiHsxGkt5aKofs97R95kdYYf3dWhGoug_nEecrMgEhsAetkr9E75DZXd7Tj9yZMgXpkFZNEI3o2shid2m-dYA85_J_EFMZsGreOtukutRK4Sv1YY6PxMqd69nWD2oeQfg8ASHc-YAIKnbgJF04AlXHcExGKQDKc3lXLIOp2RWbwJg9ghfx97yOeW891pfe5f6O-m6q7ZaiK8AqhkzoZpssomy85DykzGItuXqSQ15aro5IeeB=w577-h769-no?authuser=0",
+	"AboutContent": [
+		"I’m a Computer Engineer by day, a Football player by evening, and a hustler always.",
+		"If you can’t find me, it’s because I’m travelling, off to a hike, or reading business-related books.",
+		"I am passionate about Space,Blockchain and Business (though, never studied them formally)"
+		
+	],
+
+	"WorkContent": [
+		"I am currently looking for a job"
+	],
+	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"InternshipsStartLine": "Previously, I have interned with :",
+	"InternShips": [{
+			"name": "Amazon India",
+			"link": "#"
+		},
+		{
+			"name": "North-Eastern Space Application Center (ISRO)",
+			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+		},
+		{
+			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
+			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+		}
+	],
+	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"Projects": [{
+			"name": "EisenList",
+			"link": "https://github.com/adityaketkar/eisenlist"
+		},
+		{
+			"name": "DelOr",
+			"link": "https://bitsdelor.wixsite.com/delor"
+		},
+		{
+			"name": "Alexa Music Companion",
+			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+		},
+		{
+			"name": "Gatsby Personal Webpage",
+			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+		}
+	],
+
+	"CVStartLine": ["To be an inherent part of an establishment, actively providing engineering and information technology support in all technologies for the end users",
+	" including software installations software development,programming and networking"],
+	"Resume": "https://drive.google.com/file/d/1UIeruW2z9VO7PLMNzTXQ6mdJ1jeC8RZh/view?usp=sharing",
+
+	"emailid": "mailto:hinjizeyesa@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/zeyesa-hinji-64a560a2/",
+	"github": "https://github.com/hinjizeyesa",
+	"twitter": "https://twitter.com/h_hinji",
+	"instagram": "https://www.instagram.com/hinjizeyesa"
+}
